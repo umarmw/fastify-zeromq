@@ -1,0 +1,16 @@
+{
+  "name": "fastify-zeromq",
+  "version": "1.0.0",
+  "description": "fastify and zeromq",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.24.0",
+    "zeromq": "^6.0.0-beta.6"
+  }
+}
